@@ -1,4 +1,4 @@
-# App de Gestión de Horarios 
+# App Organizador de Fotos
 
 Este proyecto es una aplicación donde al tomar fotos del pizarrón se puedan guardar en carpetas especifacas de cada materia, (donde previamente se suba el horario de las materias y se pueda que al tomar la foto automaticamente se agregue a la carptea de esa materia).
 Desarrollada con **Vue.js**, **Ionic Framework** y **TypeScript**. Permite gestionar y visualizar horarios de manera eficiente.
@@ -23,8 +23,9 @@ Tener instalado [Node.js](https://nodejs.org/).
 
 ### 2. Clonar el repositorio
 ```bash
-git clone [PEGAR_AQUÍ_EL_LINK_DE_TU_REPOSITORIO]
-cd [NOMBRE_DE_TU_CARPETA]
+git clone [https://github.com/rebeccacs50/App-Organizador-de-Fotos.git](https://github.com/rebeccacs50/App-Organizador-de-Fotos.git)
+cd App-Organizador-de-Fotos
+```
 
 ### 3. Instalar Dependencias
 npm install
