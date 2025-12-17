@@ -28,7 +28,11 @@ cd App-Organizador-de-Fotos
 ```
 
 ### 3. Instalar Dependencias
+```bash
 npm install
+```
 
 ### 4. Ejecutar Aplicación (en el navegador)
+```bash
 npm run dev
+```
