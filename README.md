@@ -7,7 +7,7 @@ Desarrollada con **Vue.js**, **Ionic Framework** y **TypeScript**. Permite gesti
 * **Framework:** [Vue.js 3](https://vuejs.org/)
 * **Componentes UI:** [Ionic Framework](https://ionicframework.com/)
 * **Herramienta de Construcción:** [Vite](https://vitejs.dev/)
-* **Lenguaje:** [TypeScript](https://www.typescriptlang.org/)
+
 
 ## Estructura del Proyecto
 
